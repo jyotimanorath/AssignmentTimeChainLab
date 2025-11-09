@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-11-09T10:58:01 IST" name="Default suite" finished-at="2025-11-09T10:58:15 IST" duration-ms="14183">
+    <groups>
+    </groups>
+    <test started-at="2025-11-09T10:58:01 IST" name="Default test" finished-at="2025-11-09T10:58:15 IST" duration-ms="14183">
+      <class name="com.assignment.TestCases.TC_loginPage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.assignment.TestCases.TC_loginPage@6cc4cdb9]" started-at="2025-11-09T10:58:01 IST" name="setup" finished-at="2025-11-09T10:58:02 IST" duration-ms="1554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyTitleOfPage()[pri:0, instance:com.assignment.TestCases.TC_loginPage@6cc4cdb9]" started-at="2025-11-09T10:58:02 IST" name="verifyTitleOfPage" finished-at="2025-11-09T10:58:07 IST" duration-ms="4457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitleOfPage -->
+        <test-method signature="verifyLoginInValidemail()[pri:1, instance:com.assignment.TestCases.TC_loginPage@6cc4cdb9]" started-at="2025-11-09T10:58:07 IST" name="verifyLoginInValidemail" finished-at="2025-11-09T10:58:10 IST" duration-ms="3533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginInValidemail -->
+        <test-method signature="verifyLoginValidemail()[pri:2, instance:com.assignment.TestCases.TC_loginPage@6cc4cdb9]" started-at="2025-11-09T10:58:10 IST" name="verifyLoginValidemail" finished-at="2025-11-09T10:58:15 IST" duration-ms="4600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginValidemail -->
+      </class> <!-- com.assignment.TestCases.TC_loginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
